@@ -1,14 +1,14 @@
 [
 {
 "author" : "Oxygen",
-"name" : "Lucifer",
+"name" : "StBallotin",
 "keyWords" : "keyword1,keyword2",
 "version" : "1.0.0",
-"dofusVersion" : "2.47",
-"description" : "Theme Lucifer"
+"dofusVersion" : "2.58",
+"description" : "Theme StBallotin"
 "url" : "https://github.com/Oxygen62/Lucifer/raw/main/Lucifer.zip",
 "previewUrl" : "https://github.com/Oxygen62/Lucifer/raw/main/Preview.jpg",
-"creationDate" : "30/11/2020",
-"modificationDate" : "30/11/2020"
+"creationDate" : "19/01/2021",
+"modificationDate" : "19/01/2021"
 }
 ]
